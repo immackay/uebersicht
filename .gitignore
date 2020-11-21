@@ -17,6 +17,7 @@ profile
 DerivedData
 .idea/
 
+node_modules
 server/node_modules
 
 # build files

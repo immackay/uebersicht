@@ -1,0 +1,25 @@
+{
+  "name": "uebersicht",
+  "version": "1.0.0",
+  "description": "*Keep an eye on what's happening on your machine and in the world.*",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixhageloh/uebersicht.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixhageloh/uebersicht/issues"
+  },
+  "homepage": "https://github.com/felixhageloh/uebersicht#readme"
+}

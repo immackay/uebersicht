@@ -405,7 +405,7 @@
 				ORGANIZATIONNAME = tracesOf;
 				TargetAttributes = {
 					DC43AD7B17EC2D9500241CC2 = {
-						DevelopmentTeam = S3P44NRLCW;
+						DevelopmentTeam = Y324WB4AAG;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.HardenedRuntime = {
@@ -531,12 +531,10 @@
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-Uebersicht/Pods-Uebersicht-frameworks.sh",
 				"${PODS_ROOT}/Sparkle/Sparkle.framework",
-				"${PODS_ROOT}/Sparkle/Sparkle.framework.dSYM",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Sparkle.framework",
-				"${DWARF_DSYM_FOLDER_PATH}/Sparkle.framework.dSYM",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -765,7 +763,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 67;
-				DEVELOPMENT_TEAM = S3P44NRLCW;
+				DEVELOPMENT_TEAM = Y324WB4AAG;
 				ENABLE_HARDENED_RUNTIME = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -780,7 +778,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MARKETING_VERSION = 1.6;
 				OTHER_CODE_SIGN_FLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = tracesOf.Uebersicht;
+				PRODUCT_BUNDLE_IDENTIFIER = dev.swartz.tracesOf.Uebersicht;
 				PRODUCT_NAME = "Übersicht";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -800,7 +798,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 67;
-				DEVELOPMENT_TEAM = S3P44NRLCW;
+				DEVELOPMENT_TEAM = Y324WB4AAG;
 				ENABLE_HARDENED_RUNTIME = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -815,7 +813,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MARKETING_VERSION = 1.6;
 				OTHER_CODE_SIGN_FLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = tracesOf.Uebersicht;
+				PRODUCT_BUNDLE_IDENTIFIER = dev.swartz.tracesOf.Uebersicht;
 				PRODUCT_NAME = "Übersicht";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
